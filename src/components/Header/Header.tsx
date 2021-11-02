@@ -1,8 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Icons } from '../atoms';
 import Styles from './Header.styles';
 
 const Header: React.FC = () => {
+	const [opened, setOpened] = useState<boolean>(false);
 	return (
 		<Styles>
 			<div className="header">
@@ -20,7 +21,7 @@ const Header: React.FC = () => {
 						<b className="purple">&#125;</b>
 					</p>
 				</section>
-				<section className="header__burger">
+				<section className="header__burger" onClick={() => setOpened(!opened)}>
 					<Icons type="burger" />
 				</section>
 				<section className="header__links">
@@ -30,6 +31,26 @@ const Header: React.FC = () => {
 					<Icons type="linkedin" />
 					<Icons type="github" />
 				</section>
+				{opened && (
+					<div className="header--menu">
+						<a onClick={() => setOpened(false)} href="/">
+							Projects
+						</a>
+						<a onClick={() => setOpened(false)} href="/">
+							About Me
+						</a>
+						<a onClick={() => setOpened(false)} href="/">
+							Contact
+						</a>
+						<div
+							className="header--menu__icons"
+							onClick={() => setOpened(false)}
+						>
+							<Icons type="linkedin" />
+							<Icons type="github" />
+						</div>
+					</div>
+				)}
 			</div>
 		</Styles>
 	);

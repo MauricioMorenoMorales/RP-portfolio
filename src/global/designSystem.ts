@@ -8,3 +8,11 @@ export const colorSystem = {
 	orange: '#eb5757',
 	green: '#27ae60',
 };
+
+export const borderSystem = {
+	normal: '5px',
+};
+
+export const shadowSystem = {
+	normal: '4px 1px 5px 0px rgb(0, 0, 0, 0.2)',
+};
