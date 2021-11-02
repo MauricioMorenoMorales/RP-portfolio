@@ -1,10 +1,13 @@
 import React from 'react';
+import { Header } from './components';
 
 const App = () => {
 	return (
 		<div>
-			<p>Hola mundo</p>
-			<p>Hola mundo</p>
+			<Header />
+			<p>
+				Hola mundo<b className="yellow">Hola</b> <b className="orange">mundo</b>{' '}
+			</p>
 		</div>
 	);
 };
