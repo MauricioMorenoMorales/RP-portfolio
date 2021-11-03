@@ -70,9 +70,24 @@ const Styles = styled.div`
 	@media screen and (min-width: 1300px) {
 		.hero {
 			max-width: 1250px;
+			&__text {
+				align-self: start;
+				margin-top: 100px;
+				margin-left: 0;
+				max-width: 500px;
+			}
 			&__image {
+				margin-left: 0;
+				height: 600px;
 				&__first-panel {
+					width: 500px;
 					max-width: 500px;
+				}
+				&__second-panel {
+					width: 400px;
+					max-width: 500px;
+					top: 120px;
+					left: 230px;
 				}
 			}
 		}
