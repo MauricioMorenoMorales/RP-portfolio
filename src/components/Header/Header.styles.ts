@@ -14,6 +14,10 @@ const Styles = styled.header`
 		align-items: center;
 		justify-content: space-between;
 		box-shadow: ${shadowSystem.normal};
+		&__logo {
+			cursor: default;
+			user-select: none;
+		}
 		&__links {
 			display: none;
 			& > * {
