@@ -8,6 +8,7 @@ const Icons: React.FC<{
 	const Container = styled.div`
 		cursor: pointer;
 		user-select: none;
+		display: inline;
 	`;
 	const [hover, setHover] = useState<boolean>(false);
 	if (type === 'burger')
