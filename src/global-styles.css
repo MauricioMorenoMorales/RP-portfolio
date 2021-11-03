@@ -65,6 +65,19 @@ h1 {
 	font-size: 3.8rem;
 }
 
+.button-big {
+	height: 58px;
+	padding: 20px 40px;
+	font-size: 1.8rem;
+	font-weight: bold;
+	border: none;
+	background-color: #56ccf2;
+	cursor: pointer;
+}
+.button-big:hover {
+	transform: scale(0.98);
+}
+
 @media screen and (min-width: 768px) {
 	h1 {
 		font-size: 4.8rem;
