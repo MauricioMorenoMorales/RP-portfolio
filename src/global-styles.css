@@ -19,7 +19,11 @@ body {
 	overflow-x: hidden;
 	max-width: 100%;
 	color: #f2f2f2;
-	background-color: #26375a;
+	background-color: #1b2a41;
+}
+
+figure {
+	margin: 0;
 }
 
 p {

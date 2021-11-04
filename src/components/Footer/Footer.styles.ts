@@ -3,7 +3,7 @@ import { colorSystem } from '../../global/designSystem';
 
 const Styles = styled.footer`
 	background-color: ${colorSystem.darkestBackground};
-	border-bottom: 40px solid ${colorSystem.blue};
+	border-bottom: 30px solid ${colorSystem.blue};
 	.footer {
 		max-width: 300px;
 		border-top: 1px solid ${colorSystem.background};
