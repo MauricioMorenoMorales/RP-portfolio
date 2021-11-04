@@ -2,6 +2,16 @@ import React, { useState } from 'react';
 import styled from 'styled-components';
 import { colorSystem } from '../../global/designSystem';
 
+const Container = styled.div`
+	cursor: pointer;
+	user-select: none;
+	display: inline;
+`;
+const SimpleContainer = styled.div`
+	user-select: none;
+	display: inline;
+`;
+
 const Icons: React.FC<{
 	type:
 		| 'burger'
@@ -15,15 +25,6 @@ const Icons: React.FC<{
 		| string;
 	oneColor?: boolean;
 }> = ({ type, oneColor }) => {
-	const Container = styled.div`
-		cursor: pointer;
-		user-select: none;
-		display: inline;
-	`;
-	const SimpleContainer = styled.div`
-		user-select: none;
-		display: inline;
-	`;
 	const [hover, setHover] = useState<boolean>(false);
 	if (type === 'burger')
 		return (
