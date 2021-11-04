@@ -84,7 +84,7 @@ const Projects: React.FC = () => {
 					{data
 						.slice(desktopSlice.start, desktopSlice.end)
 						.map((project: IProject, index) => (
-							<Project project={project} />
+							<Project project={project} key={index} />
 						))}
 				</article>
 				<section className="navigation-buttons">
@@ -116,7 +116,7 @@ const Projects: React.FC = () => {
 					{data
 						.slice(tabletSlice.start, tabletSlice.end)
 						.map((project: IProject, index) => (
-							<Project project={project} />
+							<Project project={project} key={index} />
 						))}
 				</article>
 				<section className="navigation-buttons">
@@ -147,7 +147,7 @@ const Projects: React.FC = () => {
 					{data
 						.slice(mobileSlice.start, mobileSlice.end)
 						.map((project: IProject, index) => (
-							<Project project={project} />
+							<Project project={project} key={index} />
 						))}
 				</article>
 				<section className="navigation-buttons">

@@ -8,7 +8,7 @@ const Styles = styled.div`
 	.projects {
 		display: grid;
 		margin: 0 auto;
-		gap: 10px;
+		gap: 6px;
 		margin-bottom: 100px;
 		&.mobile {
 			max-width: 250px;
