@@ -22,11 +22,11 @@ const Project: React.FC<{ project: IProject }> = ({ project }) => {
 					<h3>{project.projectName}</h3>
 					<p>{project.description}</p>
 				</section>
-				<section className="projec__item__buttons">
-					<button>Go to Site</button>
+				<section className="project__buttons">
+					<button className="button">Go to Site</button>
 					<div className="project__buttons__ghost">
 						View Code
-						<Icons type="github" />
+						<Icons type="github" oneColor />
 					</div>
 				</section>
 			</article>

@@ -74,6 +74,14 @@ h2 {
 	font-size: 3.6rem;
 }
 
+.button {
+	height: 32px;
+	font-size: 1.5rem;
+	background-color: #56ccf2;
+	border: none;
+	cursor: pointer;
+}
+
 .button-big {
 	height: 58px;
 	padding: 20px 40px;
