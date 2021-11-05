@@ -3,6 +3,8 @@ import styled from 'styled-components';
 const Styles = styled.div`
 	& > p {
 		text-align: center;
+		max-width: 300px;
+		margin: 0 auto;
 		margin-bottom: 40px;
 	}
 	.projects {

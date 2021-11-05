@@ -18,15 +18,10 @@ const Projects: React.FC = () => {
 		start: number;
 		end: number;
 	}>({ start: 0, end: 1 });
+	// This function determines the slicer behavior in all layouts
 	const handleSlice = (action: 'add' | 'subtract') => {
 		if (action === 'add') {
 			//Add all slices
-			// console.log('mobileStart: ', mobileSlice.start + 1);
-			console.log('tabletStart: ', tabletSlice.start + 1);
-			// console.log('desktopStart: ', desktopSlice.start + 1);
-			// console.log('mobileEnd: ', mobileSlice.end + 1);
-			console.log('tabletEnd: ', tabletSlice.end + 1);
-			// console.log('desktopEnd: ', desktopSlice.end + 1);
 			if (mobileSlice.end + 1 > data.length) return;
 			setMobileSlice(prevState => ({
 				start: prevState.start + 1,
@@ -44,12 +39,6 @@ const Projects: React.FC = () => {
 			}));
 		} else {
 			// subtracts all slices
-			// console.log('mobileStart: ', mobileSlice.start - 1);
-			console.log('tabletStart: ', tabletSlice.start - 1);
-			// console.log('desktopStart: ', desktopSlice.start - 1);
-			// console.log('mobileEnd: ', mobileSlice.end - 1);
-			console.log('tabletEnd: ', tabletSlice.end - 1);
-			// console.log('desktopEnd: ', desktopSlice.end - 1);
 			if (mobileSlice.start - 1 < 0) return;
 			setMobileSlice(prevState => ({
 				start: prevState.start - 1,
