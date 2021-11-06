@@ -15,7 +15,7 @@ const Project: React.FC<{ project: IProject }> = ({ project }) => {
 				</figure>
 				<section className="project__technologies">
 					{project.technologies.map((element, index) => (
-						<Icons type={element} />
+						<Icons type={element} key={index} />
 					))}
 				</section>
 				<section className="project__text">

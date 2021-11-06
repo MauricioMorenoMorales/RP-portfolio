@@ -101,6 +101,16 @@ h2 {
 	display: block;
 }
 
+html::-webkit-scrollbar {
+	width: 8px;
+}
+
+html::-webkit-scrollbar-thumb {
+	color: #ddd;
+	background-color: #56ccf2;
+	border-radius: 5px;
+}
+
 @media screen and (min-width: 768px) {
 	h1 {
 		font-size: 4.8rem;

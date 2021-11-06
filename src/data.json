@@ -1,7 +1,15 @@
 [
 	{
 		"projectName": "Audiophile E-Commerce",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": [
+			"react",
+			"typescript",
+			"reduxToolkit",
+			"testingLibrary",
+			"css",
+			"styledComponents",
+			"storyBook"
+		],
 		"description": "A complete site from a frontend mentor challenge of the highest difficulty, it uses redux and testing ",
 		"codeLink": "https://google.com",
 		"image": "/assets/images/16-audiophile-e-commerce.png",
@@ -9,7 +17,7 @@
 	},
 	{
 		"projectName": "Tip Calculator",
-		"technologies": ["html", "stylus", "css", "javaScript"],
+		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A calculator created with vanilla technologies, it uses BEM CSS methodology",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-11-tip-calculator-app",
 		"image": "/assets/images/11-tip-calculator.png",
@@ -25,146 +33,146 @@
 	},
 	{
 		"projectName": "This Portfolio",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["figma", "react", "typescript", "css", "styledComponents"],
 		"description": "A portfolio designed by me, it uses React.ts logic and also styled-components with BEM methodology",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/RP-portfolio",
 		"image": "/assets/images/portfolio.png",
 		"pageLink": "https://google.com"
 	},
 	{
-		"projectName": "Time Tracking Dashboard",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"projectName": "Time Tracking Dashboard{{ERROR}} ",
+		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A dark themed page, that shows different data, daily, weekly and monthly, all created with vanilla technologies",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-10-time-tracking-dashboard",
 		"image": "/assets/images/placeholderImg.png",
 		"pageLink": "https://google.com"
 	},
 	{
 		"projectName": "Sunniside Agency Landing Page",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A colorful landing page created using CSS Grid methodologies, and with BEM CSS methodology ",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-12-sunnyside-agency-landing-page",
 		"image": "/assets/images/12-sunnyside-agency-landing-page.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-12-sunnyside-agency-landing-page/"
 	},
 	{
 		"projectName": "Social Media Dashboard",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "It has two themes a dark mode and a light mode, it uses BEM methodologies and CSS Grid",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/Frontend-mentor-social-media-dashboard-with-theme-switcher",
 		"image": "/assets/images/social-media-dashboard.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/Frontend-mentor-social-media-dashboard-with-theme-switcher/"
 	},
 	{
 		"projectName": "Clipboard Landing Page",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "stylus", "css"],
 		"description": "A site created with flexbox techniques, and negative margins for the images",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/Frontend-mentor-clipboard-landing-page",
 		"image": "/assets/images/clipboard-landing-page.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/Frontend-mentor-clipboard-landing-page/"
 	},
 	{
 		"projectName": "Static Jobs Listing",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A job list with filter functions, all created using vanilla technologies CSS flexbox and CSS grid",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-13-Static-job-listings",
 		"image": "/assets/images/13-static-jobs-listing.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-13-Static-job-listings/"
 	},
 	{
 		"projectName": "Huddle Landing Page",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A simple landing page that uses some SVG images to create the curve effect, also uses display-flex: row-reverse;",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/huddle-landing-page-curved",
 		"image": "/assets/images/huddle-landing-page.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/huddle-landing-page-curved/"
 	},
 	{
 		"projectName": "Project Tracking Component",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A simple component, the image is placed using negative margins, and it is different acording to the viewport width",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/frontend-mentor-project-tracking-intro-component",
 		"image": "/assets/images/project-tracking-component.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/frontend-mentor-project-tracking-intro-component/"
 	},
 	{
 		"projectName": "Calculator App",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "typescript", "css", "stylus"],
 		"description": "It has three different themes, but the logic is not completed because I payed frontend-mentor premium and started other projects",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-11-tip-calculator-app",
 		"image": "/assets/images/14-calculator-app.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-14-calculator-app/"
 	},
 	{
 		"projectName": "Base Apparel Comming Soon",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A component styled using CSS grid and flexbox, its email verification works with vanilla javascript",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-07-base-apparel-comming-soon",
 		"image": "/assets/images/07-base-apparel-coming-soon.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-07-base-apparel-comming-soon/"
 	},
 	{
 		"projectName": "Intro Component With Signup Form",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A page that verify if the form is filled correctly, and throw an error message if not",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-08-intro-component-with-signup-form",
 		"image": "/assets/images/08-intro-component-with-signup-form.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-08-intro-component-with-signup-form/"
 	},
 	{
 		"projectName": "Four Card Feature",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A simple component without logic but with CSS grid techniques and centering via margin: 0 auto;",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-06-four-card-feature-section",
 		"image": "/assets/images/06-four-card-feature.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-06-four-card-feature-section/"
 	},
 	{
 		"projectName": "FAQ Accordion Card",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "An animated component, that has a plegable menu, backgrounds and negative margin effects, all created with vanilla technologies",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-05-faq-accordio-card-main",
 		"image": "/assets/images/05-faq-accordion-card-main.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-05-faq-accordio-card-main/"
 	},
 	{
 		"projectName": "Profile Card Component",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "stylus", "css"],
 		"description": "A very simple component with backgrounds and created with negative margins, all created in a short place of time",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-04-profile-card-component",
 		"image": "/assets/images/04-profile-card-component.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-04-profile-card-component/"
 	},
 	{
 		"projectName": "Ping Coming Soon Page",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A simple site with a form and CSS BEM techniques, all created using HTML Vanilla technologies",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-09-ping-coming-soon-page",
 		"image": "/assets/images/ping-coming-soon-page.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-09-ping-coming-soon-page/"
 	},
 	{
 		"projectName": "Order Summary Component",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "stylus", "css"],
 		"description": "A simple HTML component, all created with Vanilla technologies and BEM methodology",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-01-order-summary-component-main",
 		"image": "/assets/images/01-order-summary-component.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-01-order-summary-component-main/"
 	},
 	{
 		"projectName": "Column Preview Card Component",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "stylus", "css"],
 		"description": "A simple responsive HTML component created using CSS GRID",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-03-3-column-preview-card-component",
 		"image": "/assets/images/03-column-preview-card-component.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-03-3-column-preview-card-component/"
 	},
 	{
 		"projectName": "Stats Preview Card Component",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "stylus", "css"],
 		"description": "A simple component which the image is colourized with a div",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-02-stats-preview-card-component",
 		"image": "/assets/images/02-stats-preview-card-component.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-02-stats-preview-card-component/"
 	}
 ]

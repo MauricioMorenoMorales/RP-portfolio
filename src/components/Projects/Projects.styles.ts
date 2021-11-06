@@ -47,6 +47,11 @@ const Styles = styled.div`
 			}
 		}
 	}
+	@media screen and (min-width: 768px) {
+		& > p {
+			max-width: 500px;
+		}
+	}
 `;
 
 export default Styles;

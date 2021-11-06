@@ -69,7 +69,10 @@ const Projects: React.FC = () => {
 				<h2>Projects</h2>
 				<p>
 					Some of the projects that i have maded, there is more on my github
-					profile
+					profile. <br />
+					Also you can ask me for my <b className="blue">Figma</b> and{' '}
+					<b className="blue">ui/ux</b> experience, my focus is in frontend
+					development but also I like design
 				</p>
 				<article className="projects desktop">
 					{data
@@ -103,7 +106,10 @@ const Projects: React.FC = () => {
 				<h2>Projects</h2>
 				<p>
 					Some of the projects that i have maded, there is more on my github
-					profile
+					profile. <br />
+					Also you can ask me for my <b className="blue">Figma</b> and{' '}
+					<b className="blue">ui/ux</b> experience, my focus is in frontend
+					development but also I like design
 				</p>
 				<article className="projects tablet">
 					{data
@@ -136,7 +142,10 @@ const Projects: React.FC = () => {
 				<h2>Projects</h2>
 				<p>
 					Some of the projects that i have maded, there is more on my github
-					profile
+					profile. <br />
+					Also you can ask me for my <b className="blue">Figma</b> and{' '}
+					<b className="blue">UI/UX</b> experience, my focus is in frontend
+					development but also I like design
 				</p>
 				<article className="projects mobile">
 					{data
