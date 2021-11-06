@@ -41,7 +41,7 @@ const About = () => {
 					</p>
 					<p>
 						{' '}
-						Also I like trading, i have leearning it for more than 3 years,
+						Also I like trading, i have learned it for more than 3 years,
 						currently I am learning order flow tools, like heatmap footprint and
 						times and sales
 					</p>

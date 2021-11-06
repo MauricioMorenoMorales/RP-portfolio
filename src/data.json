@@ -1,0 +1,170 @@
+[
+	{
+		"projectName": "Audiophile E-Commerce",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A complete site from a frontend mentor challenge of the highest difficulty, it uses redux and testing ",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/16-audiophile-e-commerce.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Tip Calculator",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A calculator created with vanilla technologies, it uses BEM CSS methodology",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/11-tip-calculator.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Insure Landing Page",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A landing page without logic, but with some backgrounds habilities required",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/insure-landing-page.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "This Portfolio",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A portfolio designed by me, it uses React.ts logic and also styled-components with BEM methodology",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/portfolio.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Time Tracking Dashboard",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A dark themed page, that shows different data, daily, weekly and monthly, all created with vanilla technologies",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/placeholderImg.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Sunniside Agency Landing Page",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A colorful landing page created using CSS Grid methodologies, and with BEM CSS methodology ",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/12-sunnyside-agency-landing-page.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Social Media Dashboard",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "It has two themes a dark mode and a light mode, it uses BEM methodologies and CSS Grid",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/social-media-dashboard.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Clipboard Landing Page",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A site created with flexbox techniques, and negative margins for the images",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/clipboard-landing-page.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Static Jobs Listing",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A job list with filter functions, all created using vanilla technologies CSS flexbox and CSS grid",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/13-static-jobs-listing.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Huddle Landing Page",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A simple landing page that uses some SVG images to create the curve effect, also uses display-flex: row-reverse;",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/huddle-landing-page.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Project Tracking Component",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A simple component, the image is placed using negative margins, and it is different acording to the viewport width",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/project-tracking-component.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Calculator App",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "It has three different themes, but the logic is not completed because I payed frontend-mentor premium and started other projects",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/14-calculator-app.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Base Apparel Comming Soon",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A component styled using CSS grid and flexbox, its email verification works with vanilla javascript",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/07-base-apparel-coming-soon.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Intro Component With Signup Form",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A page that verify if the form is filled correctly, and throw an error message if not",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/08-intro-component-with-signup-form.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Four Card Feature",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A simple component without logic but with CSS grid techniques and centering via margin: 0 auto;",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/06-four-card-feature.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "FAQ Accordion Card",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "An animated component, that has a plegable menu, backgrounds and negative margin effects, all created with vanilla technologies",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/05-faq-accordion-card-main.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Profile Card Component",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A very simple component with backgrounds and created with negative margins, all created in a short place of time",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/04-profile-card-component.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Ping Coming Soon Page",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A simple site with a form and CSS BEM techniques, all created using HTML Vanilla technologies",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/ping-coming-soon-page.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Order Summary Component",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A simple HTML component, all created with Vanilla technologies and BEM methodology",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/01-order-summary-component.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Column Preview Card Component",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A simple responsive HTML component created using CSS GRID",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/03-column-preview-card-component.png",
+		"pageLink": "https://google.com"
+	},
+	{
+		"projectName": "Stats Preview Card Component",
+		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"description": "A simple component which the image is colourized with a div",
+		"codeLink": "https://google.com",
+		"image": "/assets/images/02-stats-preview-card-component.png",
+		"pageLink": "https://google.com"
+	}
+]

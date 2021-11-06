@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Styles from './Projects.styles';
-import data from '../../projects.json';
+import data from '../../data.json';
 import { IProject } from '../../interfaces/Project.interface';
 import { Project } from '../';
 
