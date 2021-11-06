@@ -23,8 +23,16 @@ const Project: React.FC<{ project: IProject }> = ({ project }) => {
 					<p>{project.description}</p>
 				</section>
 				<section className="project__buttons">
-					<button className="button">Go to Site</button>
-					<div className="project__buttons__ghost">
+					<button
+						className="button"
+						onClick={() => window.open(project.pageLink, '_blank')?.focus()}
+					>
+						Go to Site
+					</button>
+					<div
+						className="project__buttons__ghost"
+						onClick={() => window.open(project.codeLink, '_blank')?.focus()}
+					>
 						View Code
 						<Icons type="github" oneColor />
 					</div>

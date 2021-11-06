@@ -9,19 +9,19 @@
 	},
 	{
 		"projectName": "Tip Calculator",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "stylus", "css", "javaScript"],
 		"description": "A calculator created with vanilla technologies, it uses BEM CSS methodology",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-11-tip-calculator-app",
 		"image": "/assets/images/11-tip-calculator.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-11-tip-calculator-app/"
 	},
 	{
 		"projectName": "Insure Landing Page",
-		"technologies": ["reduxToolkit", "react", "typescript", "figma"],
+		"technologies": ["html", "sass", "css", "javaScript"],
 		"description": "A landing page without logic, but with some backgrounds habilities required",
-		"codeLink": "https://google.com",
+		"codeLink": "https://github.com/MauricioMorenoMorales/Insure-landing-page",
 		"image": "/assets/images/insure-landing-page.png",
-		"pageLink": "https://google.com"
+		"pageLink": "https://mauriciomorenomorales.github.io/Insure-landing-page/"
 	},
 	{
 		"projectName": "This Portfolio",
