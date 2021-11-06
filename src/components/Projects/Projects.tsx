@@ -3,6 +3,8 @@ import Styles from './Projects.styles';
 import data from '../../data.json';
 import { IProject } from '../../interfaces/Project.interface';
 import { Project } from '../';
+import LeftArrow from '../../assets/left-arrow.svg';
+import RightArrow from '../../assets/right-arrow.svg';
 
 const Projects: React.FC = () => {
 	const [width, setWidth] = useState(window.innerWidth);
@@ -78,16 +80,18 @@ const Projects: React.FC = () => {
 				</article>
 				<section className="navigation-buttons">
 					<button
-						className="navigation-buttons__back"
+						className="navigation-buttons__item back"
+						title="back"
 						onClick={() => handleSlice('subtract')}
 					>
-						back
+						<img src={LeftArrow} alt="" />
 					</button>
 					<button
-						className="navigation-buttons__next"
+						className="navigation-buttons__item next"
+						title="next"
 						onClick={() => handleSlice('add')}
 					>
-						next
+						<img src={RightArrow} alt="" />
 					</button>
 				</section>
 			</Styles>
@@ -110,16 +114,18 @@ const Projects: React.FC = () => {
 				</article>
 				<section className="navigation-buttons">
 					<button
-						className="navigation-buttons__back"
+						className="navigation-buttons__item back"
+						title="back"
 						onClick={() => handleSlice('subtract')}
 					>
-						back
+						<img src={LeftArrow} alt="" />
 					</button>
 					<button
-						className="navigation-buttons__next"
+						className="navigation-buttons__item next"
+						title="next"
 						onClick={() => handleSlice('add')}
 					>
-						next
+						<img src={RightArrow} alt="" />
 					</button>
 				</section>
 			</Styles>
@@ -141,16 +147,18 @@ const Projects: React.FC = () => {
 				</article>
 				<section className="navigation-buttons">
 					<button
-						className="navigation-buttons__back"
+						className="navigation-buttons__item back"
+						title="back"
 						onClick={() => handleSlice('subtract')}
 					>
-						back
+						<img src={LeftArrow} alt="" />
 					</button>
 					<button
-						className="navigation-buttons__next"
+						className="navigation-buttons__item next"
+						title="next"
 						onClick={() => handleSlice('add')}
 					>
-						next
+						<img src={RightArrow} alt="" />
 					</button>
 				</section>
 			</Styles>

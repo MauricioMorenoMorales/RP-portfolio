@@ -33,7 +33,7 @@ const Stats: React.FC = () => {
 				technologies like <b className="blue">git, npm, yarn, docker</b>, etc...
 			</p>
 			<div className="stats">
-				{width >= 700 ? (
+				{width >= 768 ? (
 					<figure>
 						<embed src="https://wakatime.com/share/@MauricioMoreno22/e47ea4d3-347b-4ca9-ae8e-a79a428461a2.svg"></embed>
 					</figure>

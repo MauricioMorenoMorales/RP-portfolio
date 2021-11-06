@@ -10,7 +10,12 @@ const Hero: React.FC = () => {
 						Hi I am <b className="blue">Mauricio</b> Moreno, I am a{' '}
 						<b className="blue">Frontend</b> Developer
 					</h1>
-					<button className="button-big">Look my Work</button>
+					<button className="button-big"
+					onClick={() => {
+						navigator.clipboard.writeText('MauricioMorenoMorales@protonmail.ch')
+						alert('Email Copied To Clipboard')
+					}}
+					>Get My Email</button>
 				</article>
 				<article className="hero__image">
 					<section className="hero__image__first-panel">
