@@ -13,7 +13,9 @@ const Stats: React.FC = () => {
 			<h2>Languages used over Last Year</h2>
 			<p>
 				These are the main languages that I have used over the last year, also
-				you can check my github profile to view all the code.
+				you can check my github profile to view all the code. All this data
+				comes from the extension WakaTime, that counts the time you expend doing
+				code.
 			</p>
 			<p>
 				Currently typescript and javascript, React JSX HTML and CSS based tools

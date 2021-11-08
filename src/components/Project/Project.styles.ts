@@ -26,6 +26,7 @@ const Styles = styled.div`
 			margin-bottom: 20px;
 			& > h3 {
 				margin-top: 10px;
+				color: ${colorSystem.blue};
 			}
 		}
 		&__buttons {
