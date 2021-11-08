@@ -25,29 +25,67 @@ const Header: React.FC = () => {
 					<Icons type="burger" />
 				</section>
 				<section className="header__links">
-					<a href="/">Projects</a>
-					<a href="/">About Me</a>
-					<a href="/">Contact</a>
-					<Icons type="linkedin" />
-					<Icons type="github" />
+					<a href="#projects">Projects</a>
+					<a href="#about">About Me</a>
+					<a href="#stats">Stats</a>
+					<span
+						onClick={() =>
+							window
+								.open(
+									'https://www.linkedin.com/in/mauricio-moreno-morales-8565051aa/',
+									'_blank',
+								)
+								?.focus()
+						}
+					>
+						<Icons type="linkedin" />
+					</span>
+					<span
+						onClick={() =>
+							window
+								.open('https://github.com/MauricioMorenoMorales', '_blank')
+								?.focus()
+						}
+					>
+						<Icons type="github" />
+					</span>
 				</section>
 				{opened && (
 					<div className="header--menu">
-						<a onClick={() => setOpened(false)} href="/">
+						<a onClick={() => setOpened(false)} href="#projects">
 							Projects
 						</a>
-						<a onClick={() => setOpened(false)} href="/">
+						<a onClick={() => setOpened(false)} href="#about">
 							About Me
 						</a>
-						<a onClick={() => setOpened(false)} href="/">
-							Contact
+						<a onClick={() => setOpened(false)} href="#stats">
+							Stats
 						</a>
 						<div
 							className="header--menu__icons"
 							onClick={() => setOpened(false)}
 						>
-							<Icons type="linkedin" />
-							<Icons type="github" />
+							<span
+								onClick={() =>
+									window
+										.open(
+											'https://www.linkedin.com/in/mauricio-moreno-morales-8565051aa/',
+											'_blank',
+										)
+										?.focus()
+								}
+							>
+								<Icons type="linkedin" />
+							</span>
+							<span
+								onClick={() =>
+									window
+										.open('https://github.com/MauricioMorenoMorales', '_blank')
+										?.focus()
+								}
+							>
+								<Icons type="github" />
+							</span>
 						</div>
 					</div>
 				)}

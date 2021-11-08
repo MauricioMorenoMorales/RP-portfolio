@@ -6,9 +6,15 @@ const App = () => {
 		<div>
 			<Header />
 			<Hero />
-			<Projects />
-			<Stats />
-			<About />
+			<div id="projects">
+				<Projects />
+			</div>
+			<div id="stats">
+				<Stats />
+			</div>
+			<div className="about">
+				<About />
+			</div>
 			<Footer />
 		</div>
 	);

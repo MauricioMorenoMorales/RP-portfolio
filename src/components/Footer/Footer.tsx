@@ -7,15 +7,33 @@ const Footer: React.FC = () => {
 		<Styles>
 			<div className="footer">
 				<article className="footer__text-links">
-					<a href="/">Projects</a>
-					<a href="/">About Me</a>
-					<a href="/">Contact</a>
+					<a href="#projects">Projects</a>
+					<a href="#about">About Me</a>
+					<a href="#stats">Stats</a>
 				</article>
 				<article className="footer__icon-links">
-					<span>
+				<span
+						onClick={() =>
+							window
+								.open(
+									'https://www.linkedin.com/in/mauricio-moreno-morales-8565051aa/',
+									'_blank',
+								)
+								?.focus()
+						}
+					>
 						<Icons type="linkedin" />
 					</span>
-					<span>
+					<span
+						onClick={() =>
+							window
+								.open(
+									'https://github.com/MauricioMorenoMorales',
+									'_blank',
+								)
+								?.focus()
+						}
+					>
 						<Icons type="github" />
 					</span>
 				</article>
@@ -23,8 +41,5 @@ const Footer: React.FC = () => {
 		</Styles>
 	);
 };
-
-
-
 
 export default Footer;

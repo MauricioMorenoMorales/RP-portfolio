@@ -16,13 +16,35 @@ const About = () => {
 						title="Mauricio"
 					/>
 					<div className="about__resources__links">
-						<span>
+						<span
+							onClick={() => {
+								navigator.clipboard.writeText(
+									'MauricioMorenoMorales@protonmail.ch',
+								);
+								alert('Email Copied To Clipboard');
+							}}
+						>
 							<Icons type="email" />
 						</span>
-						<span>
+						<span
+							onClick={() =>
+								window
+									.open(
+										'https://www.linkedin.com/in/mauricio-moreno-morales-8565051aa/',
+										'_blank',
+									)
+									?.focus()
+							}
+						>
 							<Icons type="linkedin" />
 						</span>
-						<span>
+						<span
+							onClick={() =>
+								window
+									.open('https://github.com/MauricioMorenoMorales', '_blank')
+									?.focus()
+							}
+						>
 							<Icons type="github" />
 						</span>
 					</div>

@@ -3,6 +3,7 @@ html {
 	font-size: 62.5%;
 	font-family: 'Ubuntu', sans-serif;
 	min-height: 100vh;
+	scroll-behavior: smooth;
 }
 
 * {
@@ -80,7 +81,6 @@ h2 {
 	background-color: #56ccf2;
 	border: none;
 	cursor: pointer;
-	padding-bottom: 5px;
 }
 
 .button-big {

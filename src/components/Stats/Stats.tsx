@@ -18,7 +18,7 @@ const Stats: React.FC = () => {
 				code.
 			</p>
 			<p>
-				Currently typescript and javascript, React JSX HTML and CSS based tools
+				Currently Typescript, Javascript, React JSX, HTML and CSS based tools
 				are the languages that I use the most, but js/ts does not includes
 				technologies that I use with the language itself, like{' '}
 				<b className="blue">React TSX</b> or{' '}
