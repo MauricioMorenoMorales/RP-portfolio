@@ -37,15 +37,23 @@
 		"description": "A portfolio designed by me, it uses React.ts logic and also styled-components with BEM methodology",
 		"codeLink": "https://github.com/MauricioMorenoMorales/RP-portfolio",
 		"image": "/assets/images/portfolio.png",
-		"pageLink": "https://google.com"
+		"pageLink": "/"
 	},
 	{
-		"projectName": "Time Tracking Dashboard{{ERROR}} ",
+		"projectName": "Fylo Dark Theme Landing Page",
+		"technologies": ["html", "sass", "css"],
+		"description": "A landing page with the best html and css accesibility practices, with vanilla technologies",
+		"codeLink": "https://github.com/MauricioMorenoMorales/RP-portfolio",
+		"image": "/assets/images/fylo-dark-theme-landing-page.png",
+		"pageLink": "https://mauriciomorenomorales.github.io/fylo-dark-theme-landing-page/#"
+	},
+	{
+		"projectName": "Time Tracking Dashboard",
 		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A dark themed page, that shows different data, daily, weekly and monthly, all created with vanilla technologies",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-10-time-tracking-dashboard",
-		"image": "/assets/images/placeholderImg.png",
-		"pageLink": "https://google.com"
+		"image": "/assets/images/10-time-tracking-dashboard.png",
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-10-time-tracking-dashboard/"
 	},
 	{
 		"projectName": "Sunniside Agency Landing Page",
@@ -96,6 +104,14 @@
 		"pageLink": "https://mauriciomorenomorales.github.io/frontend-mentor-project-tracking-intro-component/"
 	},
 	{
+		"projectName": "Fylo Landing Page ",
+		"technologies": ["html", "javaScript", "css", "sass"],
+		"description": "A Landing page using BEM methodology with sass and Email Verification",
+		"codeLink": "https://github.com/MauricioMorenoMorales/Fylo-landing-page-with-two-column-layout/tree/gh-pages",
+		"image": "/assets/images/fylo-landing-page.png",
+		"pageLink": "https://mauriciomorenomorales.github.io/Fylo-landing-page-with-two-column-layout/"
+	},
+	{
 		"projectName": "Calculator App",
 		"technologies": ["html", "typescript", "css", "stylus"],
 		"description": "It has three different themes, but the logic is not completed because I payed frontend-mentor premium and started other projects",
@@ -136,6 +152,22 @@
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-05-faq-accordio-card-main/"
 	},
 	{
+		"projectName": "Social Proff Section",
+		"technologies": ["html", "sass", "css"],
+		"description": "A simple responsive section maded with Flex Box and BEM methodology",
+		"codeLink": "https://github.com/MauricioMorenoMorales/social-proof-secion-master",
+		"image": "/assets/images/social-proof-section.png",
+		"pageLink": "https://mauriciomorenomorales.github.io/social-proof-secion-master/"
+	},
+	{
+		"projectName": "Single price Grid Component",
+		"technologies": ["html", "sass", "css"],
+		"description": "A Simple Responsive grid component maded with Sass and BEM methodology",
+		"codeLink": "https://github.com/MauricioMorenoMorales/Fro.Me.--Single-Price-Grid-Component",
+		"image": "/assets/images/single-price-grid-component.png",
+		"pageLink": "https://mauriciomorenomorales.github.io/Fro.Me.--Single-Price-Grid-Component/"
+	},
+	{
 		"projectName": "Profile Card Component",
 		"technologies": ["html", "stylus", "css"],
 		"description": "A very simple component with backgrounds and created with negative margins, all created in a short place of time",
@@ -174,5 +206,13 @@
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-02-stats-preview-card-component",
 		"image": "/assets/images/02-stats-preview-card-component.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-02-stats-preview-card-component/"
+	},
+	{
+		"projectName": "Fylo data storage component",
+		"technologies": ["html", "sass", "css"],
+		"description": "The first project that I have maded from frontend mentor",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FrontendMentor1-Fylo-Data-Storage",
+		"image": "/assets/images/fylo-data-storage-component.png",
+		"pageLink": "https://mauriciomorenomorales.github.io/FrontendMentor1-Fylo-Data-Storage/"
 	}
 ]

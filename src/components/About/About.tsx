@@ -1,6 +1,7 @@
 import React from 'react';
 import Styles from './About.styles';
 import imagePlaceHolder from '../../assets/avatar-placeholder.png';
+import mauricio from '../../assets/mauricio.png';
 import { Icons } from '../atoms';
 
 const About = () => {
@@ -11,7 +12,7 @@ const About = () => {
 				<section className="about__resources">
 					<img
 						className="about__resources__image"
-						src={imagePlaceHolder}
+						src={mauricio}
 						alt="Mauricio Moreno"
 						title="Mauricio"
 					/>
