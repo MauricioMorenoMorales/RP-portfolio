@@ -78,7 +78,7 @@ const Hero: React.FC = () => {
 									"designTechnologies": [
 										"figma"
 									],
-									"currentlyLearning": [
+									"currentlyPracticing": [
 										"backend with nestjs",
 										"sql",
 									],
@@ -104,8 +104,8 @@ const Hero: React.FC = () => {
 								<p className="i2"><b className="green">"nestjs"</b>,</p>
 								<p className="i2"><b className="green">"docker"</b>,</p>
 								<p className="i2"><b className="green">"sql"</b></p>
-							{/* currentlyLearning */}
-							<p className="i1"><b className="orange">"currentlyLearning"</b> : <b className="purple">[</b></p>
+							{/* currentlyPracticing */}
+							<p className="i1"><b className="orange">"currentlyPracticing"</b> : <b className="purple">[</b></p>
 								<p className="i2"><b className="green">"backend with nestjs"</b>,</p>
 								<p className="i2"><b className="green">"sql"</b></p>
 							<p className="i1"><b className="purple">]</b></p>
