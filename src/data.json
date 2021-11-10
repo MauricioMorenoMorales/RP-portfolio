@@ -12,7 +12,7 @@
 		],
 		"description": "A complete site from a frontend mentor challenge of the highest difficulty, it uses redux and testing ",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-16-audiophile-e-comerce",
-		"image": "/assets/images/16-audiophile-e-commerce.png",
+		"image": "/RP-portfolio/assets/images/16-audiophile-e-commerce.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-16-audiophile-e-comerce/#/"
 	},
 	{
@@ -20,7 +20,7 @@
 		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A calculator created with vanilla technologies, it uses BEM CSS methodology",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-11-tip-calculator-app",
-		"image": "/assets/images/11-tip-calculator.png",
+		"image": "/RP-portfolio/assets/images/11-tip-calculator.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-11-tip-calculator-app/"
 	},
 	{
@@ -28,7 +28,7 @@
 		"technologies": ["html", "sass", "css", "javaScript"],
 		"description": "A landing page without logic, but with some backgrounds habilities required",
 		"codeLink": "https://github.com/MauricioMorenoMorales/Insure-landing-page",
-		"image": "/assets/images/insure-landing-page.png",
+		"image": "/RP-portfolio/assets/images/insure-landing-page.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/Insure-landing-page/"
 	},
 	{
@@ -36,7 +36,7 @@
 		"technologies": ["figma", "react", "typescript", "css", "styledComponents"],
 		"description": "A portfolio designed by me, it uses React.ts logic and also styled-components with BEM methodology",
 		"codeLink": "https://github.com/MauricioMorenoMorales/RP-portfolio",
-		"image": "/assets/images/portfolio.png",
+		"image": "/RP-portfolio/assets/images/portfolio.png",
 		"pageLink": "/"
 	},
 	{
@@ -44,7 +44,7 @@
 		"technologies": ["html", "sass", "css"],
 		"description": "A landing page with the best html and css accesibility practices, with vanilla technologies",
 		"codeLink": "https://github.com/MauricioMorenoMorales/RP-portfolio",
-		"image": "/assets/images/fylo-dark-theme-landing-page.png",
+		"image": "/RP-portfolio/assets/images/fylo-dark-theme-landing-page.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/fylo-dark-theme-landing-page/#"
 	},
 	{
@@ -52,7 +52,7 @@
 		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A dark themed page, that shows different data, daily, weekly and monthly, all created with vanilla technologies",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-10-time-tracking-dashboard",
-		"image": "/assets/images/10-time-tracking-dashboard.png",
+		"image": "/RP-portfolio/assets/images/10-time-tracking-dashboard.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-10-time-tracking-dashboard/"
 	},
 	{
@@ -60,7 +60,7 @@
 		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A colorful landing page created using CSS Grid methodologies, and with BEM CSS methodology ",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-12-sunnyside-agency-landing-page",
-		"image": "/assets/images/12-sunnyside-agency-landing-page.png",
+		"image": "/RP-portfolio/assets/images/12-sunnyside-agency-landing-page.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-12-sunnyside-agency-landing-page/"
 	},
 	{
@@ -68,7 +68,7 @@
 		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "It has two themes a dark mode and a light mode, it uses BEM methodologies and CSS Grid",
 		"codeLink": "https://github.com/MauricioMorenoMorales/Frontend-mentor-social-media-dashboard-with-theme-switcher",
-		"image": "/assets/images/social-media-dashboard.png",
+		"image": "/RP-portfolio/assets/images/social-media-dashboard.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/Frontend-mentor-social-media-dashboard-with-theme-switcher/"
 	},
 	{
@@ -76,7 +76,7 @@
 		"technologies": ["html", "stylus", "css"],
 		"description": "A site created with flexbox techniques, and negative margins for the images",
 		"codeLink": "https://github.com/MauricioMorenoMorales/Frontend-mentor-clipboard-landing-page",
-		"image": "/assets/images/clipboard-landing-page.png",
+		"image": "/RP-portfolio/assets/images/clipboard-landing-page.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/Frontend-mentor-clipboard-landing-page/"
 	},
 	{
@@ -84,7 +84,7 @@
 		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A job list with filter functions, all created using vanilla technologies CSS flexbox and CSS grid",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-13-Static-job-listings",
-		"image": "/assets/images/13-static-jobs-listing.png",
+		"image": "/RP-portfolio/assets/images/13-static-jobs-listing.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-13-Static-job-listings/"
 	},
 	{
@@ -92,7 +92,7 @@
 		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A simple landing page that uses some SVG images to create the curve effect, also uses display-flex: row-reverse;",
 		"codeLink": "https://github.com/MauricioMorenoMorales/huddle-landing-page-curved",
-		"image": "/assets/images/huddle-landing-page.png",
+		"image": "/RP-portfolio/assets/images/huddle-landing-page.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/huddle-landing-page-curved/"
 	},
 	{
@@ -100,7 +100,7 @@
 		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A simple component, the image is placed using negative margins, and it is different acording to the viewport width",
 		"codeLink": "https://github.com/MauricioMorenoMorales/frontend-mentor-project-tracking-intro-component",
-		"image": "/assets/images/project-tracking-component.png",
+		"image": "/RP-portfolio/assets/images/project-tracking-component.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/frontend-mentor-project-tracking-intro-component/"
 	},
 	{
@@ -108,7 +108,7 @@
 		"technologies": ["html", "javaScript", "css", "sass"],
 		"description": "A Landing page using BEM methodology with sass and Email Verification",
 		"codeLink": "https://github.com/MauricioMorenoMorales/Fylo-landing-page-with-two-column-layout/tree/gh-pages",
-		"image": "/assets/images/fylo-landing-page.png",
+		"image": "/RP-portfolio/assets/images/fylo-landing-page.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/Fylo-landing-page-with-two-column-layout/"
 	},
 	{
@@ -116,7 +116,7 @@
 		"technologies": ["html", "typescript", "css", "stylus"],
 		"description": "It has three different themes, but the logic is not completed because I payed frontend-mentor premium and started other projects",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-11-tip-calculator-app",
-		"image": "/assets/images/14-calculator-app.png",
+		"image": "/RP-portfolio/assets/images/14-calculator-app.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-14-calculator-app/"
 	},
 	{
@@ -124,7 +124,7 @@
 		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A component styled using CSS grid and flexbox, its email verification works with vanilla javascript",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-07-base-apparel-comming-soon",
-		"image": "/assets/images/07-base-apparel-coming-soon.png",
+		"image": "/RP-portfolio/assets/images/07-base-apparel-coming-soon.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-07-base-apparel-comming-soon/"
 	},
 	{
@@ -132,7 +132,7 @@
 		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A page that verify if the form is filled correctly, and throw an error message if not",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-08-intro-component-with-signup-form",
-		"image": "/assets/images/08-intro-component-with-signup-form.png",
+		"image": "/RP-portfolio/assets/images/08-intro-component-with-signup-form.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-08-intro-component-with-signup-form/"
 	},
 	{
@@ -140,7 +140,7 @@
 		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A simple component without logic but with CSS grid techniques and centering via margin: 0 auto;",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-06-four-card-feature-section",
-		"image": "/assets/images/06-four-card-feature.png",
+		"image": "/RP-portfolio/assets/images/06-four-card-feature.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-06-four-card-feature-section/"
 	},
 	{
@@ -148,7 +148,7 @@
 		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "An animated component, that has a plegable menu, backgrounds and negative margin effects, all created with vanilla technologies",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-05-faq-accordio-card-main",
-		"image": "/assets/images/05-faq-accordion-card-main.png",
+		"image": "/RP-portfolio/assets/images/05-faq-accordion-card-main.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-05-faq-accordio-card-main/"
 	},
 	{
@@ -156,7 +156,7 @@
 		"technologies": ["html", "sass", "css"],
 		"description": "A simple responsive section maded with Flex Box and BEM methodology",
 		"codeLink": "https://github.com/MauricioMorenoMorales/social-proof-secion-master",
-		"image": "/assets/images/social-proof-section.png",
+		"image": "/RP-portfolio/assets/images/social-proof-section.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/social-proof-secion-master/"
 	},
 	{
@@ -164,7 +164,7 @@
 		"technologies": ["html", "sass", "css"],
 		"description": "A Simple Responsive grid component maded with Sass and BEM methodology",
 		"codeLink": "https://github.com/MauricioMorenoMorales/Fro.Me.--Single-Price-Grid-Component",
-		"image": "/assets/images/single-price-grid-component.png",
+		"image": "/RP-portfolio/assets/images/single-price-grid-component.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/Fro.Me.--Single-Price-Grid-Component/"
 	},
 	{
@@ -172,7 +172,7 @@
 		"technologies": ["html", "stylus", "css"],
 		"description": "A very simple component with backgrounds and created with negative margins, all created in a short place of time",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-04-profile-card-component",
-		"image": "/assets/images/04-profile-card-component.png",
+		"image": "/RP-portfolio/assets/images/04-profile-card-component.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-04-profile-card-component/"
 	},
 	{
@@ -180,7 +180,7 @@
 		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A simple site with a form and CSS BEM techniques, all created using HTML Vanilla technologies",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-09-ping-coming-soon-page",
-		"image": "/assets/images/ping-coming-soon-page.png",
+		"image": "/RP-portfolio/assets/images/ping-coming-soon-page.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-09-ping-coming-soon-page/"
 	},
 	{
@@ -188,7 +188,7 @@
 		"technologies": ["html", "stylus", "css"],
 		"description": "A simple HTML component, all created with Vanilla technologies and BEM methodology",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-01-order-summary-component-main",
-		"image": "/assets/images/01-order-summary-component.png",
+		"image": "/RP-portfolio/assets/images/01-order-summary-component.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-01-order-summary-component-main/"
 	},
 	{
@@ -196,7 +196,7 @@
 		"technologies": ["html", "stylus", "css"],
 		"description": "A simple responsive HTML component created using CSS GRID",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-03-3-column-preview-card-component",
-		"image": "/assets/images/03-column-preview-card-component.png",
+		"image": "/RP-portfolio/assets/images/03-column-preview-card-component.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-03-3-column-preview-card-component/"
 	},
 	{
@@ -204,7 +204,7 @@
 		"technologies": ["html", "stylus", "css"],
 		"description": "A simple component which the image is colourized with a div",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-02-stats-preview-card-component",
-		"image": "/assets/images/02-stats-preview-card-component.png",
+		"image": "/RP-portfolio/assets/images/02-stats-preview-card-component.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-02-stats-preview-card-component/"
 	},
 	{
@@ -212,7 +212,7 @@
 		"technologies": ["html", "sass", "css"],
 		"description": "The first project that I have maded from frontend mentor",
 		"codeLink": "https://github.com/MauricioMorenoMorales/FrontendMentor1-Fylo-Data-Storage",
-		"image": "/assets/images/fylo-data-storage-component.png",
+		"image": "/RP-portfolio/assets/images/fylo-data-storage-component.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FrontendMentor1-Fylo-Data-Storage/"
 	}
 ]
