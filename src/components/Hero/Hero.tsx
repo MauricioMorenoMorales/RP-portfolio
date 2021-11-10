@@ -11,12 +11,12 @@ const Hero: React.FC = () => {
 						<b className="blue">Frontend</b> Developer
 					</h1>
 					<button className="button-big"
-					onClick={() => {
+					onClick={() =>
 						navigator.clipboard
 							.writeText('MauricioMorenoMorales@protonmail.ch')
 							.then(() => alert('Email Copied To Clipboard'))
-							.catch(error => alert(error));
-					}}
+							.catch(error => alert(error))
+					}
 					>Get My Email</button>
 				</article>
 				<article className="hero__image">
