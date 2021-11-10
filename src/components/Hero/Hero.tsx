@@ -12,8 +12,10 @@ const Hero: React.FC = () => {
 					</h1>
 					<button className="button-big"
 					onClick={() => {
-						navigator.clipboard.writeText('MauricioMorenoMorales@protonmail.ch')
-						alert('Email Copied To Clipboard')
+						navigator.clipboard
+							.writeText('MauricioMorenoMorales@protonmail.ch')
+							.then(() => alert('Email Copied To Clipboard'))
+							.catch(error => alert(error));
 					}}
 					>Get My Email</button>
 				</article>

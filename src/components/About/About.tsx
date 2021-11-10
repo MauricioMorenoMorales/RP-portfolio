@@ -19,10 +19,10 @@ const About = () => {
 					<div className="about__resources__links">
 						<span
 							onClick={() => {
-								navigator.clipboard.writeText(
-									'MauricioMorenoMorales@protonmail.ch',
-								);
-								alert('Email Copied To Clipboard');
+								navigator.clipboard
+									.writeText('MauricioMorenoMorales@protonmail.ch')
+									.then(() => alert('Email Copied To Clipboard'))
+									.catch(error => alert(error));
 							}}
 						>
 							<Icons type="email" />
