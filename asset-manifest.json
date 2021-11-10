@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "//RP-portfolio/static/css/main.16ef1993.chunk.css",
-    "main.js": "//RP-portfolio/static/js/main.7ea0a67b.chunk.js",
-    "main.js.map": "//RP-portfolio/static/js/main.7ea0a67b.chunk.js.map",
-    "runtime-main.js": "//RP-portfolio/static/js/runtime-main.47e746a4.js",
-    "runtime-main.js.map": "//RP-portfolio/static/js/runtime-main.47e746a4.js.map",
-    "static/js/2.4c81f5dd.chunk.js": "//RP-portfolio/static/js/2.4c81f5dd.chunk.js",
-    "static/js/2.4c81f5dd.chunk.js.map": "//RP-portfolio/static/js/2.4c81f5dd.chunk.js.map",
-    "index.html": "//RP-portfolio/index.html",
-    "static/css/main.16ef1993.chunk.css.map": "//RP-portfolio/static/css/main.16ef1993.chunk.css.map",
-    "static/js/2.4c81f5dd.chunk.js.LICENSE.txt": "//RP-portfolio/static/js/2.4c81f5dd.chunk.js.LICENSE.txt",
-    "static/media/left-arrow.acd82783.svg": "//RP-portfolio/static/media/left-arrow.acd82783.svg",
-    "static/media/mauricio.798b2a56.png": "//RP-portfolio/static/media/mauricio.798b2a56.png",
-    "static/media/right-arrow.5453d11e.svg": "//RP-portfolio/static/media/right-arrow.5453d11e.svg"
+    "main.css": "/RP-portfolio/static/css/main.16ef1993.chunk.css",
+    "main.js": "/RP-portfolio/static/js/main.7ea0a67b.chunk.js",
+    "main.js.map": "/RP-portfolio/static/js/main.7ea0a67b.chunk.js.map",
+    "runtime-main.js": "/RP-portfolio/static/js/runtime-main.f5c48f06.js",
+    "runtime-main.js.map": "/RP-portfolio/static/js/runtime-main.f5c48f06.js.map",
+    "static/js/2.d67809e0.chunk.js": "/RP-portfolio/static/js/2.d67809e0.chunk.js",
+    "static/js/2.d67809e0.chunk.js.map": "/RP-portfolio/static/js/2.d67809e0.chunk.js.map",
+    "index.html": "/RP-portfolio/index.html",
+    "static/css/main.16ef1993.chunk.css.map": "/RP-portfolio/static/css/main.16ef1993.chunk.css.map",
+    "static/js/2.d67809e0.chunk.js.LICENSE.txt": "/RP-portfolio/static/js/2.d67809e0.chunk.js.LICENSE.txt",
+    "static/media/left-arrow.acd82783.svg": "/RP-portfolio/static/media/left-arrow.acd82783.svg",
+    "static/media/mauricio.798b2a56.png": "/RP-portfolio/static/media/mauricio.798b2a56.png",
+    "static/media/right-arrow.5453d11e.svg": "/RP-portfolio/static/media/right-arrow.5453d11e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.47e746a4.js",
-    "static/js/2.4c81f5dd.chunk.js",
+    "static/js/runtime-main.f5c48f06.js",
+    "static/js/2.d67809e0.chunk.js",
     "static/css/main.16ef1993.chunk.css",
     "static/js/main.7ea0a67b.chunk.js"
   ]
