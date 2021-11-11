@@ -120,14 +120,6 @@
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-14-calculator-app/"
 	},
 	{
-		"projectName": "Base Apparel Comming Soon",
-		"technologies": ["html", "javaScript", "css", "stylus"],
-		"description": "A component styled using CSS grid and flexbox, its email verification works with vanilla javascript",
-		"codeLink": "https://github.com/MauricioMorenoMorales/FM-07-base-apparel-comming-soon",
-		"image": "/RP-portfolio/assets/images/07-base-apparel-coming-soon.png",
-		"pageLink": "https://mauriciomorenomorales.github.io/FM-07-base-apparel-comming-soon/"
-	},
-	{
 		"projectName": "Intro Component With Signup Form",
 		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A page that verify if the form is filled correctly, and throw an error message if not",
@@ -206,6 +198,14 @@
 		"codeLink": "https://github.com/MauricioMorenoMorales/FM-02-stats-preview-card-component",
 		"image": "/RP-portfolio/assets/images/02-stats-preview-card-component.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-02-stats-preview-card-component/"
+	},
+	{
+		"projectName": "Base Apparel Comming Soon",
+		"technologies": ["html", "javaScript", "css", "stylus"],
+		"description": "A component styled using CSS grid and flexbox, its email verification works with vanilla javascript",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-07-base-apparel-comming-soon",
+		"image": "/RP-portfolio/assets/images/07-base-apparel-coming-soon.png",
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-07-base-apparel-comming-soon/"
 	},
 	{
 		"projectName": "Fylo data storage component",
