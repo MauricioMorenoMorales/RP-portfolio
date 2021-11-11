@@ -52,10 +52,14 @@ const About = () => {
 				</section>
 				<section className="about__text">
 					<p>
-						I am a react/typescript developer, actually I want to learn backend
-						technologies and continue improving my css habilities
+						I am a react/typescript developer, I like to learn things because I
+						have fun doing It, every day gets easier to learn new things and
+						that motivates me to continue doing the same
 					</p>
-					<p>Also I am Musician I play the saxophone and clarinet</p>
+					<p>
+						Also I am Musician I play the saxophone and clarinet since I have 9
+						years but I started to study professionaly at my 17s
+					</p>
 					<p>
 						I like to study languages, like chinese or german, although at this
 						moment I am not studing them, at this moment I prefer to concentrate

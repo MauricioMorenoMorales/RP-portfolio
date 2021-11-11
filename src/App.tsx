@@ -12,7 +12,7 @@ const App = () => {
 			<div id="stats">
 				<Stats />
 			</div>
-			<div className="about">
+			<div id="about">
 				<About />
 			</div>
 			<Footer />

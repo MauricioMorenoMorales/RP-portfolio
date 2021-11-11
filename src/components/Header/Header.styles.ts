@@ -40,6 +40,15 @@ const Styles = styled.header`
 			justify-content: center;
 			padding: 30px;
 			box-shadow: ${shadowSystem.normal};
+			z-index: 11;
+			&--modal {
+				z-index: 10;
+				position: absolute;
+				height: 5000px;
+				left: 0;
+				width: 100vw;
+				background-color: #00000099;
+			}
 			& > * {
 				margin: 10px auto;
 			}

@@ -1,9 +1,21 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Icons } from '../atoms';
 import Styles from './Header.styles';
 
 const Header: React.FC = () => {
 	const [opened, setOpened] = useState<boolean>(false);
+
+	const closeMenuWhenScrolls = (): void => {
+		window.scrollY > 500 && setOpened(false);
+	};
+
+	useEffect(() => {
+		document.addEventListener('scroll', closeMenuWhenScrolls);
+		return () => {
+			document.addEventListener('scroll', closeMenuWhenScrolls);
+		};
+	}, []);
+
 	return (
 		<Styles>
 			<div className="header">
@@ -88,6 +100,12 @@ const Header: React.FC = () => {
 							</span>
 						</div>
 					</div>
+				)}
+				{opened && (
+					<div
+						className="header--menu--modal"
+						onClick={() => setOpened(false)}
+					></div>
 				)}
 			</div>
 		</Styles>
