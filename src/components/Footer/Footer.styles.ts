@@ -3,13 +3,17 @@ import { colorSystem } from '../../global/designSystem';
 
 const Styles = styled.footer`
 	background-color: ${colorSystem.darkestBackground};
-	border-bottom: 30px solid ${colorSystem.blue};
 	.footer {
 		max-width: 300px;
 		border-top: 1px solid ${colorSystem.background};
 		text-align: center;
 		margin: 0 auto;
 		padding: 30px 0;
+		&-gradient {
+			height: 30px;
+			width: 100%;
+			background: ${colorSystem.gradient};
+		}
 		&__text-links {
 			text-align: center;
 			& > a {

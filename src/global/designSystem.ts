@@ -7,6 +7,7 @@ export const colorSystem = {
 	desaturatedYellow: '#ead38d',
 	orange: '#eb5757',
 	green: '#27ae60',
+	gradient: 'linear-gradient(90deg, #56ccf2 0%, #56f2c3 100%)',
 };
 
 export const borderSystem = {

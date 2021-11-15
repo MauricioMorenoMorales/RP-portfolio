@@ -38,6 +38,7 @@ const Footer: React.FC = () => {
 					</span>
 				</article>
 			</div>
+			<div className="footer-gradient"></div>
 		</Styles>
 	);
 };

@@ -37,7 +37,7 @@
 		"description": "A portfolio designed by me, it uses React.ts logic and also styled-components with BEM methodology",
 		"codeLink": "https://github.com/MauricioMorenoMorales/RP-portfolio",
 		"image": "/RP-portfolio/assets/images/portfolio.png",
-		"pageLink": "/"
+		"pageLink": "https://mauriciomorenomorales.github.io/RP-portfolio/"
 	},
 	{
 		"projectName": "Fylo Dark Theme Landing Page",

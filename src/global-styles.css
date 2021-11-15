@@ -42,8 +42,12 @@ a:hover {
 	color: #56ccf2;
 }
 
-.blue {
-	color: #56ccf2;
+.blue,
+h2 {
+	/* color: #56ccf2; */
+	background: linear-gradient(90deg, #56ccf2 0%, #56f2c3 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 .yellow {
 	color: #f2c94c;
@@ -78,7 +82,7 @@ h2 {
 .button {
 	height: 32px;
 	font-size: 1.5rem;
-	background-color: #56ccf2;
+	background: linear-gradient(90deg, #56ccf2 0%, #56f2c3 100%);
 	border: none;
 	cursor: pointer;
 }
@@ -89,7 +93,7 @@ h2 {
 	font-size: 1.8rem;
 	font-weight: bold;
 	border: none;
-	background-color: #56ccf2;
+	background: linear-gradient(90deg, #56ccf2 0%, #56f2c3 100%);
 	cursor: pointer;
 }
 .button-big:hover {
