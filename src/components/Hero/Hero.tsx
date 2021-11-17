@@ -102,18 +102,19 @@ const Hero: React.FC = () => {
 								<p className="i2"><b className="green">"redux-toolkit"</b>,</p>
 								<p className="i2"><b className="green">"sass, stylus"</b>,</p>
 								<p className="i2"><b className="green">"webpack"</b></p>
-							<p className="i1"><b className="purple">]</b></p>
+							<p className="i1"><b className="purple">]</b>,</p>
 							{/* backendTechnologies */}
 							<p className="i1"><b className="orange">"backendTechnologies"</b> : <b className="purple">[</b></p>
 								<p className="i2"><b className="green">"express"</b>,</p>
 								<p className="i2"><b className="green">"nestjs"</b>,</p>
 								<p className="i2"><b className="green">"docker"</b>,</p>
 								<p className="i2"><b className="green">"sql"</b></p>
+							<p className="i1"><b className="purple">]</b>,</p>
 							{/* currentlyPracticing */}
 							<p className="i1"><b className="orange">"currentlyPracticing"</b> : <b className="purple">[</b></p>
 								<p className="i2"><b className="green">"backend with nestjs"</b>,</p>
 								<p className="i2"><b className="green">"sql"</b></p>
-							<p className="i1"><b className="purple">]</b></p>
+							<p className="i1"><b className="purple">]</b>,</p>
 							{/* interestedOn */}
 							<p className="i1"><b className="orange">"interestedOn"</b> : <b className="purple">[</b></p>
 								<p className="i2"><b className="green">"elixir"</b>,</p>
