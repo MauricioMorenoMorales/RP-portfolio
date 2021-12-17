@@ -16,12 +16,20 @@
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-16-audiophile-e-comerce/#/"
 	},
 	{
-		"projectName": "Tip Calculator",
-		"technologies": ["html", "javaScript", "css", "stylus"],
-		"description": "A calculator created with vanilla technologies, it uses BEM CSS methodology",
-		"codeLink": "https://github.com/MauricioMorenoMorales/FM-11-tip-calculator-app",
-		"image": "/RP-portfolio/assets/images/11-tip-calculator.png",
-		"pageLink": "https://mauriciomorenomorales.github.io/FM-11-tip-calculator-app/"
+		"projectName": "MyTeam",
+		"technologies": ["vue", "typescript", "stylus", "css", "pug"],
+		"description": "Animated page, using identation preprocessors, and BEM methodology, completelly functional form etc.",
+		"codeLink": "https://github.com/MauricioMorenoMorales/18FM-myteam",
+		"image": "/RP-portfolio/assets/images/18-myteam.png",
+		"pageLink": "https://mauriciomorenomorales.github.io/18FM-myteam/#/"
+	},
+	{
+		"projectName": "Payapi",
+		"technologies": ["react", "typescript", "styledComponents", "css"],
+		"description": "Responsive multipage site with form verification using useState and <null | boolean> values ",
+		"codeLink": "https://github.com/MauricioMorenoMorales/17-fm-payapi",
+		"image": "/RP-portfolio/assets/images/17-payapi.png",
+		"pageLink": "https://mauriciomorenomorales.github.io/17-fm-payapi/"
 	},
 	{
 		"projectName": "Insure Landing Page",
@@ -38,6 +46,14 @@
 		"codeLink": "https://github.com/MauricioMorenoMorales/RP-portfolio",
 		"image": "/RP-portfolio/assets/images/portfolio.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/RP-portfolio/"
+	},
+	{
+		"projectName": "Tip Calculator",
+		"technologies": ["html", "javaScript", "css", "stylus"],
+		"description": "A calculator created with vanilla technologies, it uses BEM CSS methodology",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM-11-tip-calculator-app",
+		"image": "/RP-portfolio/assets/images/11-tip-calculator.png",
+		"pageLink": "https://mauriciomorenomorales.github.io/FM-11-tip-calculator-app/"
 	},
 	{
 		"projectName": "Fylo Dark Theme Landing Page",
