@@ -48,6 +48,20 @@
 		"pageLink": "https://mauriciomorenomorales.github.io/RP-portfolio/"
 	},
 	{
+		"projectName": "Planet Facts",
+		"technologies": [
+			"react",
+			"javaScript",
+			"css",
+			"styledComponents",
+			"reactRouter"
+		],
+		"description": "A info page that uses react router to define which information will be showed",
+		"codeLink": "https://github.com/MauricioMorenoMorales/FM19-planet-facts",
+		"image": "/RP-portfolio/assets/images/19-planet-facts.png",
+		"pageLink": "https://mauriciomorenomorales.github.io/FM19-planet-facts/#/planets/earth/overview"
+	},
+	{
 		"projectName": "Tip Calculator",
 		"technologies": ["html", "javaScript", "css", "stylus"],
 		"description": "A calculator created with vanilla technologies, it uses BEM CSS methodology",
