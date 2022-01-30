@@ -16,12 +16,12 @@
 		"pageLink": "https://mauriciomorenomorales.github.io/FM-16-audiophile-e-comerce/#/"
 	},
 	{
-		"projectName": "MyTeam",
+		"projectName": "Designo",
 		"technologies": ["vue", "typescript", "stylus", "css", "pug"],
-		"description": "Animated page, using identation preprocessors, and BEM methodology, completelly functional form etc.",
-		"codeLink": "https://github.com/MauricioMorenoMorales/18FM-myteam",
-		"image": "/RP-portfolio/assets/images/18-myteam.png",
-		"pageLink": "https://mauriciomorenomorales.github.io/18FM-myteam/#/"
+		"description": "A complete website with several pages and form validation, several backgrounds and composed images",
+		"codeLink": "https://github.com/MauricioMorenoMorales/fm20-designo",
+		"image": "/RP-portfolio/assets/images/20-designo.png",
+		"pageLink": "https://mauriciomorenomorales.github.io/fm20-designo/#/"
 	},
 	{
 		"projectName": "Payapi",
@@ -32,12 +32,12 @@
 		"pageLink": "https://mauriciomorenomorales.github.io/17-fm-payapi/"
 	},
 	{
-		"projectName": "Designo",
+		"projectName": "MyTeam",
 		"technologies": ["vue", "typescript", "stylus", "css", "pug"],
-		"description": "A complete website with several pages and form validation, several backgrounds and composed images",
-		"codeLink": "https://github.com/MauricioMorenoMorales/fm20-designo",
-		"image": "/RP-portfolio/assets/images/20designo.png",
-		"pageLink": "https://mauriciomorenomorales.github.io/fm20-designo/#/"
+		"description": "Animated page, using identation preprocessors, and BEM methodology, completelly functional form etc.",
+		"codeLink": "https://github.com/MauricioMorenoMorales/18FM-myteam",
+		"image": "/RP-portfolio/assets/images/18-myteam.png",
+		"pageLink": "https://mauriciomorenomorales.github.io/18FM-myteam/#/"
 	},
 	{
 		"projectName": "This Portfolio",
