@@ -32,12 +32,12 @@
 		"pageLink": "https://mauriciomorenomorales.github.io/17-fm-payapi/"
 	},
 	{
-		"projectName": "Insure Landing Page",
-		"technologies": ["html", "sass", "css", "javaScript"],
-		"description": "A landing page without logic, but with some backgrounds habilities required",
-		"codeLink": "https://github.com/MauricioMorenoMorales/Insure-landing-page",
-		"image": "/RP-portfolio/assets/images/insure-landing-page.png",
-		"pageLink": "https://mauriciomorenomorales.github.io/Insure-landing-page/"
+		"projectName": "Designo",
+		"technologies": ["vue", "typescript", "stylus", "css", "pug"],
+		"description": "A complete website with several pages and form validation, several backgrounds and composed images",
+		"codeLink": "https://github.com/MauricioMorenoMorales/fm20-designo",
+		"image": "/RP-portfolio/assets/images/20designo.png",
+		"pageLink": "https://mauriciomorenomorales.github.io/fm20-designo/#/"
 	},
 	{
 		"projectName": "This Portfolio",
@@ -46,6 +46,14 @@
 		"codeLink": "https://github.com/MauricioMorenoMorales/RP-portfolio",
 		"image": "/RP-portfolio/assets/images/portfolio.png",
 		"pageLink": "https://mauriciomorenomorales.github.io/RP-portfolio/"
+	},
+	{
+		"projectName": "Insure Landing Page",
+		"technologies": ["html", "sass", "css", "javaScript"],
+		"description": "A landing page without logic, but with some backgrounds habilities required",
+		"codeLink": "https://github.com/MauricioMorenoMorales/Insure-landing-page",
+		"image": "/RP-portfolio/assets/images/insure-landing-page.png",
+		"pageLink": "https://mauriciomorenomorales.github.io/Insure-landing-page/"
 	},
 	{
 		"projectName": "Planet Facts",
